@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/SajadGh110">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=دانشجوی+همیشگی+نرم+افزار+هستم" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+a+Software+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
 
