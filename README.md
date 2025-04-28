@@ -27,7 +27,7 @@
 
 ### 📬 Contact Me:
 
-<p align="left">
+<p align="center">
   <a href="mailto:Evan.dev127@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/ASCII_83_71_72"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://instagram.com/Evan_ir_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
