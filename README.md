@@ -3,18 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Full Stack Development Projects**
-- 🌱 I’m currently learning **Deep Learning, Machine Learning**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **.NET Core, Angular, Python, Android, PHP, Java, Laravel, Spring Boot**
-- 📫 How to reach me: **Evan.dev127@gmail.com**
-- ⚡ Fun fact: **I love exploring new technologies and building innovative solutions!**
-
----
-
 ### 🛠️ Technologies & Tools:
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
